@@ -1,0 +1,132 @@
+body{
+    background-color:rgb(156, 156, 156);
+}
+.contenedor_1{
+    background-color:rgb(255, 128, 0);
+    height: 10%;
+    margin-top: 0px;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    border: 5%;
+    border-radius: 20px;
+    border: solid;
+    border-color: red;
+}
+.cont_titulo{
+    padding-left: 5%;
+}
+.contenedor_2{
+    padding-bottom: 5%;
+}
+.cont_inicio{
+    padding-right: 5%;
+    height: 30%;
+}
+.cont_description{
+    padding-right: 5%;
+    height: 30px;
+}
+.cont_ingre{
+    padding-right: 5%;
+    height: 30%;
+}
+.cont_prepa{
+    height: 30%;
+}
+h2{
+    margin: 0%;
+}
+a{
+    text-decoration: none;
+    color:white;
+    font-size: 18px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+a:hover{
+    color: blue;
+    background-color: rgba(255, 255, 255, 0.9);
+    text-decoration: underline;
+}
+h1{
+    color:white;
+    font-size: 45px;
+    font-weight: bolder;
+    letter-spacing: 10px;
+    text-shadow: 1px 2px 8px #111;
+}
+.cont_contenido{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+.cont_info{
+    padding-left: 5%;
+}
+.lis_ingre{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+.ingre{
+    color:white;
+    font-size: 20px;
+    font-weight: bolder;
+    letter-spacing: 10px;
+    text-shadow: 1px 2px 8px #111;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    margin-top: 0%;
+}
+.descri{
+    color:white;
+    font-size: 25px;
+    font-weight: bolder;
+    letter-spacing: 10px;
+    text-shadow: 1px 2px 8px #111;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    padding-top: 5%;
+}
+ul{
+    margin-top: 0%;
+}
+li{
+    font-size: 12px;
+    letter-spacing: 3px;
+    line-height: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.prepa{
+    color:white;
+    font-size: 20px;
+    font-weight: bolder;
+    letter-spacing: 10px;
+    text-shadow: 1px 2px 8px #111;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    margin-top: 0%;
+}
+.video{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    margin-top: 0%;
+}
+.lis_prepa{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    margin-top: 5%;
+}
+.descri_platillo{
+    font-size: 12px;
+    letter-spacing: 3px;
+    line-height: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

@@ -1,0 +1,80 @@
+.contenedor_1{
+    background-color: red;
+    height: 20vh;
+    margin: 1%;
+    border: 5%;
+    border-radius: 20px;
+    border: solid;
+    border-color: white;
+    margin-bottom: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.contenedor_2{
+    background-color:aliceblue;
+    height: 10%;
+    margin: 1%;
+    margin-top: 0px;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contenedor_3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.comida_img{
+    width: 350px;
+    height: 248.5px;
+}
+.cont_imagen{
+    padding-right: 20px;
+}
+.cont_description{
+    padding-left: 20px;
+}
+p{
+    margin-top: 0px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-style:oblique;
+}
+.contacto{
+    font-family: serif;
+    font-weight: 100;
+    font-style: normal;
+}
+.plato_1{
+    padding-right: 10%;
+}
+.plato_2{
+    padding-right: 10%;
+}
+h1{
+    color: white;
+    font-size: 45px;
+    font-weight: bolder;
+    letter-spacing: 10px;
+    text-shadow: 1px 2px 8px #111;
+}
+a:hover{
+    color: white;
+    background-color: rgba(255, 0, 0, 0.9);
+    text-decoration: underline;
+}
+body{
+    background-color:aliceblue;
+}
+a{
+    text-decoration: none;
+    color: red;
+    font-size: 25px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+    letter-spacing: 5px;
+}
+
